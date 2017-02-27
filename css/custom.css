@@ -28,6 +28,10 @@ hr.section {
     font-weight: bold;
 }
 
+.jumbotron p {
+    font-weight: bold;
+}
+
 .jumbotron button {
     width: 100%;    
 }
@@ -143,6 +147,12 @@ p.quoteSource {
 
 #footer p#copyright {
     text-align: left;
+}
+
+#footer hr {
+    border-top: none;
+    height: 1px;
+    background-color: #999;
 }
 
 
