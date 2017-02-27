@@ -7,7 +7,7 @@
 
 section {
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 30px;
 }
 
 .quote {
@@ -31,6 +31,8 @@ section {
           transition-property: opacity;
           transition-duration: 2s;
 }
+
+
 #fade-quote-carousel.carousel .carousel-inner .active {
   opacity: 1;
   -webkit-transition-property: opacity;
