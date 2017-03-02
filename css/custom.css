@@ -74,6 +74,7 @@ hr.section {
 
 #why img {
     margin-top: 50px;
+    max-width: 200px;
 }
 
 /* Section Styling - "Testimonials" */ 
