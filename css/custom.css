@@ -130,6 +130,24 @@ p.quoteSource {
     border-radius: 5px;
 }
 
+#about {
+    padding: 3em 0;
+}
+
+#about p {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    text-align: left;
+}
+
+#about form {
+    border: 1px solid #006dcc;
+    background-color: #9cd2f7;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 2em 0;
+}
+
 
 /* Section Styling - "Footer" */
 
